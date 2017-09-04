@@ -1,4 +1,4 @@
-# keras-frcnn
+# ssd_keras_cmd
 A command line version of https://github.com/rykov8/ssd_keras
 
 ## Papers and ideas
