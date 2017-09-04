@@ -22,7 +22,7 @@ python train.py --pkl_path [path to .pkl file] --input_path [path to training im
 ```
 
 ## How to test
-* Simply specify the test data path
+* Simply specify the parameters
 ```python
 python predict.py --model_path [path to model] --input_path [path to test images]  --output_path [path to results]
 ```
